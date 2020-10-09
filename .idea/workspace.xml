@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ff3c1b2-ab10-4e71-a4f9-b3f68a1400c9" name="Default Changelist" comment="" />
+    <list default="true" id="9ff3c1b2-ab10-4e71-a4f9-b3f68a1400c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -81,6 +85,7 @@
       <updated>1589040819893</updated>
       <workItem from="1589040839660" duration="126000" />
       <workItem from="1589040966753" duration="5200000" />
+      <workItem from="1601237271944" duration="8763000" />
     </task>
     <servers />
   </component>
@@ -88,32 +93,28 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="548" y="153" key="FileChooserDialogImpl" timestamp="1589040957605">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1573" height="250" key="GridCell.Tab.0.bottom" timestamp="1601473961498">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="548" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589040957605" />
-    <state width="1493" height="185" key="GridCell.Tab.0.bottom" timestamp="1589046297744">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1573" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601473961498" />
+    <state width="1573" height="250" key="GridCell.Tab.0.center" timestamp="1601473961498">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589046297744" />
-    <state width="1493" height="185" key="GridCell.Tab.0.center" timestamp="1589046297744">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1573" height="250" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601473961498" />
+    <state width="1573" height="250" key="GridCell.Tab.0.left" timestamp="1601473961498">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589046297744" />
-    <state width="1493" height="185" key="GridCell.Tab.0.left" timestamp="1589046297744">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1573" height="250" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601473961498" />
+    <state width="1573" height="250" key="GridCell.Tab.0.right" timestamp="1601473961498">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589046297743" />
-    <state width="1493" height="185" key="GridCell.Tab.0.right" timestamp="1589046297744">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1573" height="250" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601473961498" />
+    <state x="-1366" y="141" key="SettingsEditor" timestamp="1601237353266">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="185" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589046297744" />
-    <state x="277" y="54" key="SettingsEditor" timestamp="1589041777317">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589041777317" />
+    <state x="-1366" y="141" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1601237353266" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LM_RUb_migrationcounter$main.coverage" NAME="main Coverage Results" MODIFIED="1589046297711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LM_RUb_migrationcounter$main.coverage" NAME="main Coverage Results" MODIFIED="1601329276650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
